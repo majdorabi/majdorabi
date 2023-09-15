@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/Ql3I_kH6gQsAAAAC/pikachu-pokemon.gif)]
+![MasterHead](https://media.tenor.com/Ql3I_kH6gQsAAAAC/pikachu-pokemon.gif)
 <h1 align="center">Hi 👋, I'm Majd Orabi</h1>
 <h3 align="center">A passionate Game Developer from Jordan</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM1bWg1NDFhMTFpcGd4eXZ1NGo0Z3QzOHFyb2RxbnNvM2NxbWtxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
